@@ -8,7 +8,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Charts-3f4f75)
 ![Streamlit](https://img.shields.io/badge/Streamlit-GUI-ff4b4b)
 
-🔗 **Live demo:** 
+🔗 **Live demo:** https://psx-kse-kmi30-ohlc-prices-prediction.streamlit.app/
 
 ---
 
